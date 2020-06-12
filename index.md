@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Hello this is my First Blog! This is my first attempt on making a github page with jekyll. Please understand that I'm new to this. 
