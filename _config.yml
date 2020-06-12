@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Scribble Your Thoughts
+author: Paul Choi
+email: paulsoonminchoi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hi everyone, my name is Paul Choi or some people like to call me Soonmin Choi. I'm 24 years old and I fell in love with programing ever since last year!
+  It has been a heck of a ride but my journey has just begun. Follow along and hope to see more of me in the future!
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
